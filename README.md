@@ -1,4 +1,8 @@
- ![](Hand-gesture-controller/WhatsApp Video 2026-05-17 at 16.49.49.mp4)
+ <div align="center">
+  <video src="Hand-gesture-controller/WhatsApp Video 2026-05-17 at 16.49.49.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+ </div>
  
  # Hand-gesture-controller
 
